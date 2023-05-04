@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/fingeruebungjellinghaus/fingeruebung02.05.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
